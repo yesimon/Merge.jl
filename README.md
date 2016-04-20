@@ -6,7 +6,7 @@ Merge
 
 A simple package to merge sorted iterators using a heap.
 
-```
+```julia
 using Merge
 
 a = ["a", "c", "f"]
